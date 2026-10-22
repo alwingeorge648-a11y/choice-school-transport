@@ -1,0 +1,6 @@
+{
+  "appId": "in.choiceschool.transport",
+  "appName": "Choice School Transport",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
